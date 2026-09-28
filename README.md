@@ -2,7 +2,7 @@ Here is your **complete final README (copy–paste directly)** 👇
 
 ---
 
-# 📊 Student Performance Analyzer – Kashiling
+# 📊 Student Performance Analyzer 
 
 An interactive data dashboard built using **Python, Pandas, Matplotlib, and Streamlit** to analyze student performance, calculate grades, and visualize insights.
 
